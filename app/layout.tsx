@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Bright Kids Care - Admin & Teacher Dashboard",
   description: "Management system for childcare enrollment, services, and scheduling",
-  generator: "v0.app",
+ 
   icons: {
    
       
